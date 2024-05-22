@@ -32,3 +32,5 @@ A lightweight and efficient proxy server designed to forward requests to a singl
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+alternative, you can use capsolver.com for akamai
